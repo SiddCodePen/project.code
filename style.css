@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    background-image:url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9688408d-76c0-43fb-93c2-a4b4d9e0a5d5/de25047-e9377a16-8268-4df2-be81-5c660a988464.jpg/v1/fill/w_298,h_169,q_75,strp/anime_sunset_by_skymercy11_de25047-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY5IiwicGF0aCI6IlwvZlwvOTY4ODQwOGQtNzZjMC00M2ZiLTkzYzItYTRiNGQ5ZTBhNWQ1XC9kZTI1MDQ3LWU5Mzc3YTE2LTgyNjgtNGRmMi1iZTgxLTVjNjYwYTk4ODQ2NC5qcGciLCJ3aWR0aCI6Ijw9Mjk4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.zkIwSAIFpyJnsRVXeZl-qyHtlso4VfD-Dc7g2_j5RUo");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+
+}
+.container>h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align:middle;
+    margin-top: 150px;
+    color:#343a40;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
